@@ -1,1 +1,1 @@
-# Fake-news-detection
+Google colab link :
